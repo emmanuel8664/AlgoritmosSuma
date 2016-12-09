@@ -1,0 +1,15 @@
+﻿  ExperimentoCiclo.cpp
+c:\users\1144073831\downloads\experimentociclo\experimentociclo\experimentociclo.cpp(81): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+c:\users\1144073831\downloads\experimentociclo\experimentociclo\experimentociclo.cpp(99): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+c:\users\1144073831\downloads\experimentociclo\experimentociclo\experimentociclo.cpp(117): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+c:\users\1144073831\downloads\experimentociclo\experimentociclo\experimentociclo.cpp(136): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+c:\users\1144073831\downloads\experimentociclo\experimentociclo\experimentociclo.cpp(154): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+c:\users\1144073831\downloads\experimentociclo\experimentociclo\experimentociclo.cpp(172): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+c:\users\1144073831\downloads\experimentociclo\experimentociclo\experimentociclo.cpp(191): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+c:\users\1144073831\downloads\experimentociclo\experimentociclo\experimentociclo.cpp(209): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+c:\users\1144073831\downloads\experimentociclo\experimentociclo\experimentociclo.cpp(227): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+c:\users\1144073831\downloads\experimentociclo\experimentociclo\experimentociclo.cpp(246): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+c:\users\1144073831\downloads\experimentociclo\experimentociclo\experimentociclo.cpp(264): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+c:\users\1144073831\downloads\experimentociclo\experimentociclo\experimentociclo.cpp(282): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+  ExperimentoCiclo.vcxproj -> C:\Users\1144073831\Downloads\ExperimentoCiclo\Debug\ExperimentoCiclo.exe
+  ExperimentoCiclo.vcxproj -> C:\Users\1144073831\Downloads\ExperimentoCiclo\Debug\ExperimentoCiclo.pdb (Full PDB)
