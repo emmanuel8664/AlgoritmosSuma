@@ -354,6 +354,12 @@ namespace GeneradorDatos
 
             return respuesta;
         }
+
+
+        public static void metodo (){ 
+
+            
+            }
         static void Main(string[] args)
         {
 
@@ -416,6 +422,7 @@ namespace GeneradorDatos
                                 writer.WriteLine(tiempoSumaA + "\n");
                                 writer.WriteLine(tiempoSumaB + "\n");
                                 writer.WriteLine(tiempoSumaC + "\n");
+
                             }
                         }
                     }
