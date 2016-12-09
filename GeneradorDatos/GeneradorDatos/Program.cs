@@ -356,10 +356,7 @@ namespace GeneradorDatos
         }
 
 
-        public static void metodo (int a){
-
-            a = a * a; // Comentario
-            }
+        
         static void Main(string[] args)
         {
 
